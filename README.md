@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [M Suite Agency](https://www.msuiteagency.com/)
 
-- 💬 Ask me about **Videogames or films**
+- 💬 Ask me about **"Videogames or films"**
 
 - 📫 How to reach me **freewheel1998@hotmail.com**
 
