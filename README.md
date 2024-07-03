@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dennys Wong</h1>
 <h3 align="center">A passionate frontend developer in progress from Peru, but now I'm living in Spain.</h3>
 
-- 🔭 I’m currently working on [M Suite Agency](https://www.msuiteagency.com/)
-
 - 💬 Ask me about **"Videogames or films"**
 
 - 📫 How to reach me **freewheel1998@hotmail.com**
