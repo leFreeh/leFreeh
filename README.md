@@ -11,7 +11,13 @@
 <h3 algin="left">🚀 Goals:  </h3>
 
 - Build engaging and functional web applications.  
-- Contribute to open-source projects.  
+- Contribute to open-source projects.
+
+<h3 algin="left">🖌️ Maquetador Web con WordPress:  </h3>
+
+- Experience in creating and customizing websites using WordPress.
+- Familiar with themes, plugins, and visual builders such as Elementor or Divi.
+- Design optimization for a user-friendly and mobile-responsive experience.
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -24,6 +30,11 @@
 
 #### Backend:
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### CMS:
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-b54270?style=for-the-badge&logo=elementor&logoColor=white)
+![Divi](https://img.shields.io/badge/Divi-6C42A3?style=for-the-badge&logoColor=white)
 
 #### Design:
 ![Figma](https://img.shields.io/badge/Figma-f55b89?style=for-the-badge&logo=figma&logoColor=white)
