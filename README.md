@@ -1,4 +1,6 @@
-<h1 align="left">Hi 👋, I'm Dennys Wong  </h1>
+<h1 align="left">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F5F5F5&background=FFFFFF00&multiline=true&width=435&height=110&lines=Hi%F0%9F%91%8B;I'm+Dennys+Wong" alt="Typing SVG" />
+</h1>
 
 <h3 align="left">🌟 A passionate Frontend Developer in progress, originally from Peru and now based in Spain.  </h3>
 <h3 align="left">🎯 I’m dedicated to creating responsive, user-friendly web experiences and continuously learning new tools and technologies.  </h3>
